@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Augusto Grassi, sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software e interesse em ciência de dados. Tenho experiência Profissional prática atuando como desenvolvedor júnior, contribuindo em aplicações web com PHP (Laminas Framework), Node.js e banco de dados.
+Me chamo Augusto Grassi, sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de software e interesse em ciência de dados. Tenho experiência profissional prática atuando como desenvolvedor júnior, contribuindo em aplicações web com PHP (Laminas Framework), Node.js e banco de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
