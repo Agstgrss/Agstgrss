@@ -8,22 +8,6 @@ Me chamo Augusto Grassi,...
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -45,6 +29,14 @@ Me chamo Augusto Grassi,...
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -73,15 +65,6 @@ Me chamo Augusto Grassi,...
 
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -104,14 +87,7 @@ Me chamo Augusto Grassi,...
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Docker" 
@@ -139,8 +115,8 @@ Me chamo Augusto Grassi,...
 
 <img 
     align="left" 
-    alt="Docker" 
-    title="Docker"
+    alt="Postgres" 
+    title="Postgres"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
@@ -155,26 +131,34 @@ Me chamo Augusto Grassi,...
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zend/zend-original-wordmark.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Zend" 
+    title="Zend"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api?username=Agstgrss&show_icons=true&theme=radical&locale=pt-br" 
-  />
-    
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Agstgrss&theme=radical&layout=compact" 
-  />
+<img 
+align="left" 
+height="200" 
+width="48%" 
+src="https://github-readme-stats-fast.vercel.app/api?username=Agstgrss&show_icons=true&theme=dark&locale=pt-br" 
+/>
 
-</p>
+<img 
+align="left" 
+height="200" 
+width="48%" 
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Agstgrss&theme=dark&langs_count=8&layout=compact" 
+/>
+
+
+<br clear="left"/>
+
