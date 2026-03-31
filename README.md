@@ -148,14 +148,14 @@ Me chamo Augusto Grassi,...
 <img 
 align="left" 
 height="200" 
-width="450%" 
+width="44%" 
 src="https://github-readme-stats-fast.vercel.app/api?username=Agstgrss&show_icons=true&theme=dark&locale=pt-br" 
 />
 
 <img 
 align="left" 
 height="200" 
-width="40%" 
+width="44%" 
 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Agstgrss&theme=dark&langs_count=8&layout=compact" 
 />
 
